@@ -17,7 +17,7 @@ If anyone find this demo violate your intellectual property, please contact me t
 My favourite part of this demo is the information stream design. As you can see, our demo has dynamic segments adapting different blocks to different types of contents, and all the segments together constitute our info stream.
 #### News 
 ![sc1](https://github.com/drmeerkat/BUAA-Android-Development/blob/master/Screenshots/sc1.png)
-#### News (Hide floating action button when scroll)
+#### News (Hide floating action button when scroll and Dynamic Segments)
 ![sc2](https://github.com/drmeerkat/BUAA-Android-Development/blob/master/Screenshots/sc2.png)
 #### Passage Detail
 ![sc3](https://github.com/drmeerkat/BUAA-Android-Development/blob/master/Screenshots/sc3.png)

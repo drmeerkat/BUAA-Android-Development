@@ -27,3 +27,4 @@ My favourite part of this demo is the information stream design. As you can see,
 ![sc5](https://github.com/drmeerkat/BUAA-Android-Development/blob/master/Screenshots/sc6.png)
 #### AR
 ![sc6](https://github.com/drmeerkat/BUAA-Android-Development/blob/master/Screenshots/sc5.png)
+ 
